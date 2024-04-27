@@ -1,5 +1,4 @@
-To implement Lexical Analyzer programs (identifier, keywords)​(JAVA/C/C++/Python/R-
-lang /Lex).
+#To implement Lexical Analyzer programs (identifier, keywords)​(JAVA/C/C++/Python/R-lang /Lex).
 
 import re
 
