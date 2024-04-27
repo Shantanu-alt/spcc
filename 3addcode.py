@@ -1,4 +1,4 @@
-#To implement Intermediate code generation Three add code
+#To implement Intermediate code generation (ex: Three Address Code)​(JAVA/C/C++/Python/R-lang /Lex).
 
 class IntermediateCodeGenerator:
    def __init__(self):
