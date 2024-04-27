@@ -1,3 +1,5 @@
+#Write a program to remove left recursion by direct method for given set of production rules​ ​(JAVA/C/C++/Python/R-lang /Lex).
+
 def remove_left_recursion(productions):
     new_productions = {}
     non_terminals = list(productions.keys())
