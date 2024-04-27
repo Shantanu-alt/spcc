@@ -1,3 +1,6 @@
+To implement Lexical Analyzer programs (identifier, keywords)​(JAVA/C/C++/Python/R-
+lang /Lex).
+
 import re
 
 def lexer(input_string):
