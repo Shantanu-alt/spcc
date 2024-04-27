@@ -1,3 +1,5 @@
+#To study &amp; implement Code Generation Algorithm. ​(JAVA/C/C++/Python/R-lang/Lex).
+
 def generate_assembly(expression):
     assembly_code = ""
     assembly_code += "MOV R0, " + expression.split()[0] + "\n"
